@@ -1,3 +1,6 @@
+from django.db import models
+
+# Create your models here.
 from django.core.validators import MinLengthValidator, EmailValidator
 from django.core.validators import validate_ipv4_address
 from django.db import models
