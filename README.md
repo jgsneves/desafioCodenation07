@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="https://raw.githubusercontent.com/jgsneves/desafioCodenation/master/codenation.png" />
+</h1>
+
 # Desafio ORM Queries
 
  Uma das coisas mais interessantes do framework Django é sem dúvidas o seu ORM.
